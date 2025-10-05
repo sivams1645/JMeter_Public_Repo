@@ -1,0 +1,5 @@
+jmeter-ai-plugin-1.0.0.jar: Move to JMeter/lib/ext folder
+
+AIConfig_Details: Move to JMeter/bin folder and fill your selected AI Details
+
+Note: If you find any issues please me know in the GitHub comments
